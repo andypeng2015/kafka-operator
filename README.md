@@ -1,3 +1,8 @@
+> [!CAUTION]
+> **This repository is no longer maintained.**  Please consider Adobe's fork at [https://github.com/adobe/koperator/](https://github.com/adobe/koperator/)
+
+---
+
 <p align="center">
 
 ![Koperator](https://img.shields.io/github/v/release/banzaicloud/koperator?label=Koperator&sort=semver)
@@ -19,6 +24,8 @@
 ![Helm chart](https://img.shields.io/github/actions/workflow/status/banzaicloud/koperator/helm.yml?branch=master&label=Helm%20chart)
 
 </p>
+
+
 
 # Koperator
 
